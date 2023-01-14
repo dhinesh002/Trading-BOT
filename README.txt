@@ -1,6 +1,10 @@
+if you have any issues in Pyautogui try python3.10 instead of latest version
 
 hello, this bot can help tobuy  sell signals using RSI and MACD and find the real time nse(stocks information) and forex currencies information
+warning : im using tradingview_ta module there have some data delay. so dont use this code forreal life.Jut try for jun only
 
+logic for the trading signal is when RSI < 30 and MACD < 0 is over sold so we can expect the price up and RSI > 70 and MACD > 0 is over sold so we can expect the price up.
+                 
 
 requirements:
  * for tading signals just give the correct symbol, screener, Exchange values thats all of that.follwing all for the whatsapp bot 
