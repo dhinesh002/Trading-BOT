@@ -1,7 +1,9 @@
 
-hello, this bot can help you to find the real time nse(stocks information) and forex currencies information
+hello, this bot can help tobuy  sell signals using RSI and MACD and find the real time nse(stocks information) and forex currencies information
+
 
 requirements:
+ * for tading signals just give the correct symbol, screener, Exchange values thats all of that.follwing all for the whatsapp bot 
  * make sure you installed whatsapp messanger in your desktop
  * and opened whatsapp chat is your main window.otherwise bot can't find the share.png
 
